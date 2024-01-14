@@ -133,11 +133,11 @@ border-radius: 10px;
 }
 
 #row1{
-	color: rgb(186, 25, 25);
+	color: white;
 	font-weight:bold;
 	font-size: 2rem;
 	text-align: center;
-	margin-top: 35px;
+	margin-top: 40px;
 }
 /*Button Styling*/
 .btn{
